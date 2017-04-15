@@ -35,7 +35,7 @@ when '21-01'
   album = "🎵 'National Ignition' (Aura Materia)"
   release_year = 2013
   url = "https://ochre.bandcamp.com/album/national-ignition"
-when '15-04'
+when '13-01'
   album = "💿 'Isolette' (Shipwrec)"
   release_year = 2015
   url = "https://ochre.bandcamp.com/album/isolette"
